@@ -1,0 +1,8 @@
+{
+  "name": "App Rating Overview",
+  "data": {
+    "required": ["dimension", "metric"]
+  },
+  "style": "style.css",
+  "script": "chart.js"
+}
