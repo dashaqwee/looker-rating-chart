@@ -1,8 +1,11 @@
 {
   "name": "App Rating Overview",
+  "components": {
+    "visualization": "chart.js",
+    "style": "style.css"
+  },
   "data": {
     "required": ["dimension", "metric"]
-  },
-  "style": "style.css",
-  "script": "chart.js"
+  }
 }
+
